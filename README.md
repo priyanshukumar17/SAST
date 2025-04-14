@@ -26,4 +26,4 @@ This tool currently detects the following types of security issues:
 - Python script that analyzes `.cpp` files for security issues.
 - Usage:
   ```bash
-  python main.py test.cpp
+  python3 main.py test.cpp
